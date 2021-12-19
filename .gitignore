@@ -1,2 +1,4 @@
 node_modules/
-
+_PlayMoon-Frontend/node_modules
+/node_modules
+*/node_modules
